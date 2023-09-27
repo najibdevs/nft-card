@@ -6,7 +6,7 @@ A simple NFT card built using HTML and CSS.
 
 This digital asset represents an NFT card crafted with precision using HTML and CSS. Tailored for display on desktop interfaces, it may not present optimally on mobile devices.
 
-[You can view the project here] (https://nft-card-taupe.vercel.app/)
+[You can view the project here](https://nft-card-taupe.vercel.app/)
 
 ## Features
 
