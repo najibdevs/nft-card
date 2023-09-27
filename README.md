@@ -1,4 +1,4 @@
-# QR Code Clone
+# NFT card
 
 A simple NFT card built using HTML and CSS.
 
