@@ -14,6 +14,7 @@ User-friendly interface.
 Pure HTML and CSS implementation.
 Not mobile responsive. Ideal for desktop use.
 Limited customization options.
+Static content. The interface is designed to display fixed information or features without dynamic updates or user-generated content.
 
 ## Contributing
 
